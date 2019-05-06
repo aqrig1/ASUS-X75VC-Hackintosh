@@ -16,6 +16,7 @@ Since this laptop is hardware-wise similar (except display size) to Asus X550VC 
 * Audio: Realtek ALC269
 * LAN: Qualcomm Atheros, AR8161 Gigabit Ethernet
 * Wifi: Originally some unsupported Realtek, replaced with Qualcomm Atheros, AR9285 Wireless Network Adapter (PCI-Express)
+* RAM: 4GB + 8GB DDR3
 
 ## BIOS
 * Advanced - USB Configuration - XHCI Pre-Boot Mode {Enabled}  
