@@ -13,15 +13,16 @@ Since this laptop is hardware-wise similar (except display size) to Asus X550VC 
 * CPU: Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
 * Storage: SSD INTEL SSDSC2KW256G8 256GB + HDD TOSHIBA MQ01ABD075
 * Video: Intel HD Graphics 4000
+* Audio: Realtek ALC269
 * LAN: Qualcomm Atheros, AR8161 Gigabit Ethernet
 * Wifi: Originally some unsupported Realtek, replaced with Qualcomm Atheros, AR9285 Wireless Network Adapter (PCI-Express)
 
 ## BIOS
-Advanced - USB Configuration - XHCI Pre-Boot Mode {Enabled}  
-Advanced - USB Configuration - Legacy USB Support {Enabled}  
-Boot - Launch CSM {Disabled}  
-Boot - Launch PXE OpRom {Disabled}  
-Security - Secure Boot Control {Disabled}
+* Advanced - USB Configuration - XHCI Pre-Boot Mode {Enabled}  
+* Advanced - USB Configuration - Legacy USB Support {Enabled}  
+* Boot - Launch CSM {Disabled}  
+* Boot - Launch PXE OpRom {Disabled}  
+* Security - Secure Boot Control {Disabled}
 
 ## What's working
 * Hardware accelerated graphics
@@ -38,7 +39,7 @@ Security - Secure Boot Control {Disabled}
 * Microphone
 * FN buttons
 * 3.5mm jack
-* iCloud, iMessage etc
+* iCloud, iMessage
 
 ## Bugs/not working
 * Camera (have not intention to look up for a fix)
@@ -50,7 +51,6 @@ Security - Secure Boot Control {Disabled}
 * hibernatemode anything other than 0
 * Mic via combined jack
 * USB 3
-
 
 ## References
 * https://tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/
