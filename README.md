@@ -4,7 +4,7 @@
 
 ## Notes
 Clover config & kexts for macOS Mojave 10.14.3.
-Please generate some other rom number for SMBIOS if you are gonna use this config. Check [this](www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/) for more details.
+Please generate some other rom number for SMBIOS if you are gonna use this config. Check [this](https://tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/) for more details.
 Since this laptop is hardware-wise similar (except display size) to Asus X550VC & Asus X550CC it might work there too -
  you would need to disable HDMI patch & possibly play around with platform-id.
 
