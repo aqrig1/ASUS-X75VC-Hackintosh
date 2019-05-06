@@ -1,6 +1,6 @@
 # ASUS-X75VC-Hackintosh
 
-![Screenshot](Screenshots/Screen Shot 2019-05-06 at 3.52.48 PM.png?raw=true)
+![Screenshot](https://github.com/Jesterjke/ASUS-X75VC-Hackintosh/raw/master/Screenshots/Screen%20Shot%202019-05-06%20at%203.52.48%20PM.png)
 
 ## Notes
 Clover config & kexts for macOS Mojave 10.14.3.
