@@ -30,6 +30,7 @@ Since this laptop is hardware-wise similar (except display size) to Asus X550VC 
 * CPU power management
 * Wi-Fi
 * HDMI (video & audio)
+* VGA (well, sort of, I see the image getting mirrored, but I have no control over monitor whatsoever)
 * Brightness control
 * Sound
 * Touchpad (+gestures)
@@ -47,7 +48,6 @@ Since this laptop is hardware-wise similar (except display size) to Asus X550VC 
 * Brightness lowest level is higher that I had on Linux (lazily looking for a fix)
 
 ## Haven't tested
-* VGA
 * Some FN keys (sound & brightness control works though)
 * hibernatemode anything other than 0
 * Mic via combined jack
